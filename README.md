@@ -14,3 +14,6 @@ void main()
 ```python
 import faker
 print(test)
+```
+
+https://github.com/yunmo2847/test/issues/1#issue-892328168
